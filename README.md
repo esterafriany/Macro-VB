@@ -8,4 +8,7 @@ There are 3 variables that should be define correctly to run this application, t
 - Result folder path and filename
 
 
-![image](https://user-images.githubusercontent.com/91893358/190110116-db5af23b-198a-4955-9037-06c5dcaf3a22.png)
+![image](https://user-images.githubusercontent.com/91893358/190110544-41b6b1b9-f0a0-4847-b3be-94c6f332a345.png)
+
+
+
